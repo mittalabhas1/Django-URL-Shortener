@@ -1,3 +1,4 @@
 from django.contrib import admin
+from url_shortener.models import URLDatabase
 
-# Register your models here.
+admin.register.site(URLDatabase)
