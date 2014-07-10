@@ -1,5 +1,2 @@
 **/*.pyc
-/urlShortner
-/urlShortener/*.py
-manage.py
 tmp.db
